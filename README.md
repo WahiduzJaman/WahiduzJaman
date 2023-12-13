@@ -1,3 +1,4 @@
+![logo](https://github.com/WahiduzJaman/WahiduzJaman/blob/main/coverp.jpeg)
 <h1 align="center">Hi 👋, I'm Wahiduz Jaman</h1>
 <h3 align="center">I am passionate Web developer</h3>
 
