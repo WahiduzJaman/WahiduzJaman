@@ -1,5 +1,5 @@
 ![logo](https://github.com/WahiduzJaman/WahiduzJaman/blob/main/coverp.jpeg)
-<h1 align="center">Hi 👋, I'm Wahiduz Jaman</h1>
+<h1 align="center">Hi, My Name is Wahiduz Jaman</h1>
 <h3 align="center">I am passionate Web developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
