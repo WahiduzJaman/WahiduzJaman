@@ -1,4 +1,4 @@
-![logo](https://github.com/WahiduzJaman/WahiduzJaman/blob/main/coverp.jpeg)
+![logo](https://github.com/WahiduzJaman/WahiduzJaman/blob/main/Linkedin%20Cover%20(1).png)
 <h1 align="center">Hi, My Name is Wahiduz Jaman</h1>
 <h3 align="center">I am passionate Web developer</h3>
 
